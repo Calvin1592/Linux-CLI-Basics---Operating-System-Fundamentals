@@ -16,6 +16,9 @@ Finally, I applied these concepts to analyze file ownership and counts using ls,
 
 Overall, this lab strengthened my understanding of Linux command-line fundamentals, file system navigation, file manipulation, and the power of command chaining through pipes.
 
+[Watch the Video] https://1drv.ms/v/c/4B0F9ECAC205FAB0/IQB2wNmEbbGWTbFB3Ae3yIWZAc7OFbMeKTZnEi4ATBgS1mw?e=fN06q4
+
+
 
 
 
